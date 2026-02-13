@@ -66,6 +66,13 @@ The pipeline consists of:
 📸![Screenshot 2025-04-29 144844](https://github.com/user-attachments/assets/af5e7214-f68e-40cc-82a7-0ebb1eb64350)
 ![Screenshot 2025-04-30 120758](https://github.com/user-attachments/assets/31a05b2e-5bee-4dcd-b131-4c8a06d52c78)
 ![Screenshot 2025-04-30 122105](https://github.com/user-attachments/assets/e68a3cfd-8589-485a-a261-7edc294f3161)
+
+## 🚀 Usage
+Since this is a research-focused repository, the primary assets are the datasets and evaluation metrics. 
+To replicate the environment for similar fine-tuning:
+1. Install dependencies: `pip install -r requirements.txt`
+2. Use the datasets in the `data/` folder for fine-tuning any LLM (like LLaMA 3.1) using the Hugging Face library.
+   
 ## 📈 Future Scope
 
 - Extending Native Hindi QA corpus creation (not just translations)

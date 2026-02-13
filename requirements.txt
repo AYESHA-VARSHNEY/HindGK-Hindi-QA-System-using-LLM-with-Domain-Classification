@@ -1,0 +1,18 @@
+# Model & LLM Frameworks
+torch
+transformers
+datasets
+peft
+trl
+unsloth
+accelerate
+
+# Data Processing & Analysis
+pandas
+numpy
+openpyxl
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn

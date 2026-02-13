@@ -72,40 +72,6 @@ The pipeline consists of:
 - Extend to other Indian languages (e.g., Bengali, Marathi, Tamil)
  - Deploy mobile/web app with real-time inference
 
-<h2 id="contact">Contact</h2>
-  <p>For any inquiries or feedback, please contact:</p>
-  <ul>
-    <li><strong>Name:</strong> Deepanshu Miglani</li>
-    <li><strong>Education:</strong> B.tech CSE(AIML) , UPES, Dehradun</li>
-    <li><strong>Email:</strong> deepanshumiglani0408@gmail.com / Deepanshu.106264@stu.upes.ac.in</li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/deepanshum0408">deepanshum0408</a></li>
-  </ul>
-  <ul>
-    <li><strong>Name:</strong> Divi Saxena </li>
-    <li><strong>Education:</strong> B.tech CSE(AIML) , UPES, Dehradun</li>
-    <li><strong>Email:</strong> divisaxena04@gmail.com / Divi.107784@stu.upes.ac.in</li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/B97784/">Divi Saxena</a></li>
-  </ul>
- 
-  <h2 id="mentor">Mentor</h2>
-  <p><strong>Dr. Sahinur Rahman Laskar</strong><br>
-  Assistant Professor<br>
-  School of Computer Science, UPES, Dehradun, India<br>
-  Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
-  </p>
-
-<h2>Users of this dataset are kindly requested to cite the corresponding paper.</h2>
-
-<h2> Refrence </h2>
-@INPROCEEDINGS{Laskar_HindGK_CICN2025,
-  author={Laskar, Sahinur Rahman and Deepanshu and Saxena, Divi and Badhani, Ritika and Viswakarma, Kumar Anish and Ranjan, Rakesh},
-  booktitle={IEEE  17th International Conference on Computational Intelligence and Communication Networks (CICN 2025)}, 
-  title={HindGK: A LLM-Based Question Answering System for Hindi General Knowledge}, 
-  year={2025},
-  pages={1-5},
-  keywords={; Question Answering, Large Language Model, Hindi, Domain Classification},
-  doi={}
-  }
 
 
 
